@@ -10,7 +10,7 @@ namespace LV1_RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Filipa Česneka");
+            Console.WriteLine("Pozdrav iz aplikacije od Filipa Česneka (R3758)");
         }
     }
 }
